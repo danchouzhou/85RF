@@ -14,7 +14,7 @@ A 2.4G remote control made with ATtiny85
 Check out the [installation guide of ATTinyCore](https://github.com/SpenceKonde/ATTinyCore/blob/v2.0.0-devThis-is-the-head-submit-PRs-against-this/Installation.md) by Spence Konde (aka Dr. Azzy)
 
 ### Library
-This project uses [RF24](https://github.com/nRF24/RF24), the most famous library of nRF24L01. It is possible to install the library directly from the library manager.
+This project uses [RF24](https://github.com/nRF24/RF24) by 2bndy5, it's a famous library of nRF24L01. It is possible to install the library directly from the library manager.
 
 ## Datasheet
 - [Atmel ATtiny25, ATtiny45, ATtiny85 Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet.pdf)
