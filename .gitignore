@@ -1,6 +1,12 @@
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/
 # Format documentation: http://kicad-pcb.org/help/file-formats/
 
+# KiCad 6 backups & archive files
+*.zip
+
+# non-free 3D model
+*.[Ss][Tt][Ee][Pp]
+
 # Temporary files
 *.000
 *.bak
