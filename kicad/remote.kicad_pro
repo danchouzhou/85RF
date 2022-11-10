@@ -405,7 +405,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../../../../../Desktop/remote.step",
+      "step": "pcb/remote.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
